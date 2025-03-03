@@ -1,2 +1,1 @@
-print('hello world')
-print('welcome to this world')
+print('Learning Computer  Science is Good')
